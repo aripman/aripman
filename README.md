@@ -1,3 +1,3 @@
 # Andre Ripman 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=arip&layout=donut)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=aripman&layout=donut)
 
