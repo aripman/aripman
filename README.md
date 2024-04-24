@@ -25,10 +25,4 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=602116&show_icons=true&locale=en&layout=compact" alt="aripman" />
 </p>
 
-<!-- Clearfix to clear the floating elements -->
-<div style="clear: both;"></div>
-
-<p style="text-align: center;"> <!-- This aligns everything inside the paragraph to the center -->
-    <img src="https://github-readme-stats.vercel.app/api?username=aripman&show_icons=true&bg_color=f0f0f0&locale=en" alt="aripman" style="display: block; margin: 0 auto;" />
-</p>
 
